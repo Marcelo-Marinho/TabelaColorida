@@ -1,0 +1,7 @@
+﻿Tipo de enxada;Dano;DPS;Ataques por segundo;Cooldown
+Enxada de madeira;1;1;1;1s
+Enxada de pedra;1;2;2;0,5s
+Enxada de ferro;1;3;3;0,33s
+Enxada de ouro;1;1;1;1s
+Enxada de diamante;1;4;4;0,25s
+Enxada de netherite;1;4;4;0,25s
