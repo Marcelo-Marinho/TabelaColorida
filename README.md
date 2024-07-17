@@ -6,3 +6,5 @@ Fiz no tédio e como desafio de um amigo...
 **Exemplo:**
 
 ![image](https://github.com/user-attachments/assets/0b0faf22-a959-4ca7-a9ca-7f5aac05dd27)
+
+Se quiser testar, apenas rode o ```TabelaLegal.py``` pelo terminal
